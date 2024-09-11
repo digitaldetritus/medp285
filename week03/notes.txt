@@ -1,0 +1,55 @@
+bg color for sections
+margin
+padding
+alignment
+navigation bar-SPACING, SIZE, BGCOLOR, FONT  FAMILY, 
+
+CSS
+syntax
+
+selector {
+property: value;
+property: value;
+}
+
+body {
+background-color: red;
+}
+
+SELECTORS
+html tags
+descendant selectors
+pseudo classes
+classes
+id's
+groups
+
+
+TAGS EXAMPLES
+body
+head
+li
+ul
+
+WEB COLOR
+HEX 
+RGB
+RED GREEN BLUE
+#FF0000=#F00=red
+0-F
+
+#FF00FF=#F0F=purple
+
+#000=black
+#FFF=white
+
+
+
+
+
+
+
+
+
+
+
