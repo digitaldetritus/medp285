@@ -1,0 +1,67 @@
+/*this is a tag selector*/
+
+body {
+background-color: #99d898;
+color: #333;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  background-image: url("images/graph.jpg");
+    background-attachment: fixed;
+
+
+}
+
+#wrapper {
+width: 80%;
+margin: 0 auto 0 auto;
+
+}
+
+
+/*this is a descendant selector*/
+header h1 {
+	  font-weight: 900;
+
+}
+
+nav {
+	background-color: #FFF;
+	padding: 20px;
+	  font-weight: 800;
+	  text-align: center;
+
+}
+
+nav a {
+margin: 20px;
+color: magenta;
+text-decoration: none;
+}
+
+main img.large {
+width: 800px;
+}
+
+main img.small {
+width: 100px;
+}
+
+
+main a {
+color: #F00;
+text-decoration: none;
+}
+
+main a:hover {
+color: #000;
+}
+
+footer {
+	padding: 20px;
+		margin: 40px 0px 0px 0px;
+border: solid 10px black;
+font-size: 12px;
+background-color: white;
+text-align: center;
+}
+
