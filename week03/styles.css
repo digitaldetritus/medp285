@@ -1,0 +1,45 @@
+body {
+  font-family: "Kode Mono", Courier, monospace;
+  font-optical-sizing: auto;
+  font-weight: 700;
+/*  400-700*/
+  font-style: normal;
+  background-image: url("images/graph2.jpg");
+/*  background-repeat: no-repeat;*/
+background-attachment: fixed;
+
+#wrapper {
+background-color: #CCC;
+padding: 40px;
+margin: 100px;
+border: solid 10px #000;
+}
+
+nav {
+background-color: #FFF;
+padding: 40px 10px 10px 10px;
+text-align: center;
+}
+
+nav a {
+  text-decoration: none;
+  color: #F0F;
+}
+
+nav a:hover {
+
+    color: #000;
+}
+
+p span.school {
+color: #F0F;
+}
+
+img.large {
+  width: 500px;
+}
+
+img.small {
+  height: 50px;
+  width: auto;
+}
