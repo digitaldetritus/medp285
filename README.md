@@ -1,3 +1,3 @@
 # MEDP 285: Web Production I
-## Hunter College Fall 2024
+## Hunter College Spring 2025
 ### Assistant Professor: Laura Splan
